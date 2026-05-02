@@ -90,7 +90,7 @@ $ uptime
 
 ---
 
-## 🔬 Cybersecurity — Forensics & Malware
+## 🔬 Cybersecurity Forensics & Malware
 
 **Traffic Analysis**
 
