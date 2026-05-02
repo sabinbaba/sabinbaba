@@ -32,7 +32,7 @@ $ uptime
 
 ---
 
-## 🔴 Cybersecurity — Offensive
+## 🔴 Cybersecurity Offensive
 
 **Exploitation & Frameworks**
 
@@ -66,7 +66,7 @@ $ uptime
 
 ---
 
-## 🔵 Cybersecurity — Defensive & SIEM
+## 🔵 Cybersecurity Defensive & SIEM
 
 **SIEM Platforms**
 
@@ -242,14 +242,14 @@ $ uptime
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Databases — SQL**
+**Databases SQL**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-**Databases — NoSQL**
+**Databases NoSQL**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -299,7 +299,7 @@ $ uptime
 <div align="center">
 
 ```
-> "The quieter you become, the more you are able to hear." — Kali Linux motto
+> "The quieter you become, the more you are able to hear."  Kali Linux motto
 ```
 
 ⚡ *Securing systems by day. Breaking them at night. Building the future always.*
