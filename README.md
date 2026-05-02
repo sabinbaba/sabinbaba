@@ -33,12 +33,53 @@ $ uptime
 
 ## 🛡️ Cybersecurity Arsenal
 
+**🔴 Offensive Security & Penetration Testing**
+
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00AEEF?style=for-the-badge&logo=nmap&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B4E0?style=for-the-badge&logo=tenable&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge&logo=linux&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-CC0000?style=for-the-badge&logo=linux&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-A50000?style=for-the-badge&logo=linux&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-FF0000?style=for-the-badge&logo=linux&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-1A1A2E?style=for-the-badge&logo=linux&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-333333?style=for-the-badge&logo=linux&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-1C1C1C?style=for-the-badge&logo=linux&logoColor=white)
+
+**🔵 Defensive Security, SIEM & Threat Intelligence**
+
 ![Wazuh](https://img.shields.io/badge/Wazuh-3AABAB?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00AEEF?style=for-the-badge&logo=nmap&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF7920?style=for-the-badge&logo=suricata&logoColor=white)
+![OSSEC](https://img.shields.io/badge/OSSEC-4A90D9?style=for-the-badge&logo=linux&logoColor=white)
+![TheHive](https://img.shields.io/badge/TheHive-FFBE00?style=for-the-badge&logo=linux&logoColor=black)
+![MISP](https://img.shields.io/badge/MISP-003399?style=for-the-badge&logo=linux&logoColor=white)
+![Zeek](https://img.shields.io/badge/Zeek-2563A8?style=for-the-badge&logo=linux&logoColor=white)
+
+**🔬 Forensics & Malware Analysis**
+
+![Autopsy](https://img.shields.io/badge/Autopsy-555555?style=for-the-badge&logo=linux&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-6A0DAD?style=for-the-badge&logo=linux&logoColor=white)
+![Tcpdump](https://img.shields.io/badge/Tcpdump-004B87?style=for-the-badge&logo=linux&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=nsa&logoColor=white)
+![Radare2](https://img.shields.io/badge/Radare2-1C1C1C?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+## 📡 Monitoring & Observability
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Loki](https://img.shields.io/badge/Grafana_Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![AlertManager](https://img.shields.io/badge/AlertManager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ---
 
@@ -49,6 +90,7 @@ $ uptime
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
@@ -60,6 +102,8 @@ $ uptime
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -70,8 +114,12 @@ $ uptime
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 ---
 
@@ -84,6 +132,8 @@ $ uptime
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ---
 
@@ -93,6 +143,7 @@ $ uptime
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
