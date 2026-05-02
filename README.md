@@ -1,4 +1,5 @@
 <div align="center">
+
 ```
  ██████╗ ███████╗███╗  ██╗████████╗███████╗███████╗████████╗███████╗██████╗ 
  ██╔══██╗██╔════╝████╗ ██║╚══██╔══╝██╔════╝██╔════╝╚══██╔══╝██╔════╝██╔══██╗
@@ -6,12 +7,12 @@
  ██╔═══╝ ██╔══╝  ██║╚████║   ██║   ██╔══╝  ╚════██║   ██║   ██╔══╝  ██╔══██╗
  ██║     ███████╗██║ ╚███║   ██║   ███████╗███████║   ██║   ███████╗██║  ██║
  ╚═╝     ╚══════╝╚═╝  ╚══╝   ╚═╝   ╚══════╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
- 
+
                               ┃┃  ETHICAL  ┃┃
                               ┗┛  HACKER   ┗┛
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Cybersecurity+Engineer+%F0%9F%94%90;Blockchain+%26+Web3+Developer+%E2%9B%93;AI+%2F+ML+Engineer+%F0%9F%A4%96;DevOps+%26+Cloud+Architect+%E2%98%81%EF%B8%8F;Full+Stack+Developer+%F0%9F%92%BB;Breaking+things+to+make+them+stronger.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Cybersecurity+Engineer+%F0%9F%94%90;Blockchain+%26+Web3+Developer+%E2%9B%93;AI+%2F+ML+Engineer+%F0%9F%A4%96;DevOps+%26+Cloud+Architect+%E2%98%81%EF%B8%8F;Full+Stack+Developer+%F0%9F%92%BB;Pentester+%7C%7C+Ethical+Hacker+%F0%9F%94%93)
 
 [![GitHub followers](https://img.shields.io/github/followers/sabinbaba?style=for-the-badge&color=00FF41&labelColor=0d0d0d&logo=github)](https://github.com/sabinbaba)
 [![Profile Views](https://komarev.com/ghpvc/?username=sabinbaba&style=for-the-badge&color=00FF41&labelColor=0d0d0d)](https://github.com/sabinbaba)
@@ -34,7 +35,7 @@ $ uptime
 
 ---
 
-## 🔴 Cybersecurity Offensive
+## 🔴 Cybersecurity — Offensive
 
 **Exploitation & Frameworks**
 
@@ -68,7 +69,7 @@ $ uptime
 
 ---
 
-## 🔵 Cybersecurity Defensive & SIEM
+## 🔵 Cybersecurity — Defensive & SIEM
 
 **SIEM Platforms**
 
@@ -92,7 +93,7 @@ $ uptime
 
 ---
 
-## 🔬 Cybersecurity Forensics & Malware
+## 🔬 Cybersecurity — Forensics & Malware
 
 **Traffic Analysis**
 
@@ -244,14 +245,14 @@ $ uptime
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Databases SQL**
+**Databases — SQL**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-**Databases NoSQL**
+**Databases — NoSQL**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -301,7 +302,7 @@ $ uptime
 <div align="center">
 
 ```
-> "The quieter you become, the more you are able to hear."  Kali Linux motto
+> "The quieter you become, the more you are able to hear." — Kali Linux motto
 ```
 
 ⚡ *Securing systems by day. Breaking them at night. Building the future always.*
