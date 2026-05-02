@@ -8,8 +8,8 @@
                 ██║     ███████╗██║ ╚███║   ██║   ███████╗███████║   ██║   ███████╗██║  ██║
                 ╚═╝     ╚══════╝╚═╝  ╚══╝   ╚═╝   ╚══════╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
 
-                              ┃┃  ETHICAL  ┃┃
-                              ┗┛  HACKER   ┗┛
+                                            ┃┃  ETHICAL  ┃┃
+                                             ┗┛  HACKER   ┗┛
 ```
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Cybersecurity+Engineer+%F0%9F%94%90;Blockchain+%26+Web3+Developer+%E2%9B%93;AI+%2F+ML+Engineer+%F0%9F%A4%96;DevOps+%26+Cloud+Architect+%E2%98%81%EF%B8%8F;Full+Stack+Developer+%F0%9F%92%BB;Pentester+%7C%7C+Ethical+Hacker+%F0%9F%94%93)
