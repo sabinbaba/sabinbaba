@@ -1,22 +1,22 @@
 <div align="center">
 
 ```
-        SABINBABASABINBABASABINBABA
-                          SABINBABASABIN
-             BABASABINBABASABINBABASABINB
+        WEB3&DEVOPS&WEB3&|DEVOPS
+                          SABINB0BASABIN
+             CYBERSECURITY AND BLOCKCHAIN
      ABASABINBABASABINBABASABINBABASABINB
      ABASA             BINBABASABINBABASAB      INBAB
                   ASABINBABASAB         INBABASABINBABAS
              ABINBABASA               BINBABASABINBABASABIN
-          BABASAB                    INBABA      SABINBABASA
-          BIN                       BABA              SABINBAB
-                                   ASAB                  INBABAS
-                                   ABIN                     BABAS
+          BABASAB                    INBABA           BABASA
+          BIN                       BABA                  NBAB
+                                   ASAB                     BAS
+                                   ABIN                     
                                     ABINB
                                     ABASABI
-                                      NBABASABINBABASABIN
-                                        BABASABINBABASABINBABAS
-                                                     ABINBABASABIN
+                                      EXPERT IN DEVOPS, WEB3
+                                        EXPERT IN CYBERSECURITY
+                                                 SOFTWARE DEVELOPER
                                                           BABASABINB
                                                              ABAS ABI
                                                               NBAB AS
