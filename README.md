@@ -54,7 +54,7 @@ $ cat /etc/interests
 > Cybersecurity | Blockchain | AI/ML | DevOps | Full Stack
 
 $ uptime
-> Always learning. Always building. Never stopping.
+> Always learning. Always building. Never stopping..
 ```
 
 ---
