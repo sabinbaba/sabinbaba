@@ -1,30 +1,39 @@
 <div align="center">
 
-```
-        WEB3&DEVOPS&WEB3&|DEVOPS
-                          SABINB0BASABIN
-             CYBERSECURITY AND BLOCKCHAIN
-     ABASABINBABASABINBABASABINBABASABINB
-     ABASA             BINBABASABINBABASAB      INBAB
-                  ASABINBABASAB         INBABASABINBABAS
-             ABINBABASA               BINBABASABINBABASABIN
-          BABASAB                    INBABA           BABASA
-          BIN                       BABA                  NBAB
-                                   ASAB                     BAS
-                                   ABIN                     
-                                    ABINB
-                                    ABASABI
-                                      EXPERT IN DEVOPS, WEB3
-                                        EXPERT IN CYBERSECURITY
-                                                 SOFTWARE DEVELOPER
-                                                          BABASABINB
-                                                             ABAS ABI
-                                                              NBAB AS
-                                                               ABI  N
-                                                                BAB
-                                                                 AS
-                                                                 AB
+<table>
+<tr>
+<td valign="top">
 
+```
+   sabinbabasabinbabasabinbaba
+                     sabinbabasabin
+        babasabinbabasabinbabasabinb
+abasabinbabasabinbabasabinbabasabinb
+abasa             binbabasabinbabasab      inbab
+             asabinbabasab         inbabasabinbabas
+        abinbabasa               binbabasabinbabasabin
+     babasab                    inbaba      sabinbabasa
+     bin                       baba              sabinbab
+                              asab                  inbabas
+                              abin                     babas
+                               abinb
+                               abasabi
+                                 nbabasabinbabasabin
+                                   babasabinbabasabinbabas
+                                                abinbabasabin
+                                                     babasabinb
+                                                        abas abi
+                                                         nbab as
+                                                          abi  n
+                                                           bab
+                                                            as
+                                                            ab
+```
+
+</td>
+<td valign="top">
+
+```
 ██████╗ ███████╗███╗  ██╗████████╗███████╗███████╗████████╗███████╗██████╗ 
 ██╔══██╗██╔════╝████╗ ██║╚══██╔══╝██╔════╝██╔════╝╚══██╔══╝██╔════╝██╔══██╗
 ██████╔╝█████╗  ██╔██╗██║   ██║   █████╗  ███████╗   ██║   █████╗  ██████╔╝
@@ -32,9 +41,13 @@
 ██║     ███████╗██║ ╚███║   ██║   ███████╗███████║   ██║   ███████╗██║  ██║
 ╚═╝     ╚══════╝╚═╝  ╚══╝   ╚═╝   ╚══════╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
 
-                        ┃┃  ETHICAL  ┃┃
-                        ┗┛  HACKER   ┗┛
+                    ┃┃  ETHICAL  ┃┃
+                    ┗┛  HACKER   ┗┛
 ```
+
+</td>
+</tr>
+</table>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Cybersecurity+Engineer+%F0%9F%94%90;Blockchain+%26+Web3+Developer+%E2%9B%93;AI+%2F+ML+Engineer+%F0%9F%A4%96;DevOps+%26+Cloud+Architect+%E2%98%81%EF%B8%8F;Full+Stack+Developer+%F0%9F%92%BB;Pentester+%7C%7C+Ethical+Hacker+%F0%9F%94%93)
 
@@ -54,7 +67,7 @@ $ cat /etc/interests
 > Cybersecurity | Blockchain | AI/ML | DevOps | Full Stack
 
 $ uptime
-> Always learning. Always building. Never stopping..
+> Always learning. Always building. Never stopping.
 ```
 
 ---
